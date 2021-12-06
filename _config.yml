@@ -14,7 +14,7 @@ sass:
 plainwhite:
   name: ifizzyou
   tagline: FE Developer
-  date_format: "%b %-d, %Y %M %D"
+  date_format: "%b %-d %-d %-d, %Y %M %D"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
